@@ -4,7 +4,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: REACT / HTML / CSS / JAVA / C / PYTHON / JAVASCRIPT
 
-- 🔭 I’m currently working on Kumulus 
+- 🚀 I’m currently working on Kumulus☁️
 - 🤓 I’m currently learning ReactJS 
 
 
