@@ -1,4 +1,10 @@
 <h1>Giovanni Mota</h1>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/1kHaZ1lj1r2nMjXUke/giphy.gif" width="400"/>
+<h3>About</h3>
+
+- 💻 &nbsp; Working at Kumulus
+- 🎓 &nbsp; Studying Analysis and Systems Development.
+- 🚀 &nbsp; Studying React and React Native a lot
 
 <p align="left">
   <em>
@@ -8,6 +14,8 @@ Hello, welcome to my profile. I'm Giovanni Mota, I study Systems Analysis and De
 </p>
 <hr>
 <br>
+
+
 
 
 <h2>GitHub Stats</h2>
