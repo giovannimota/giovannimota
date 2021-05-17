@@ -3,7 +3,7 @@
     Giovanni Mota
   <img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width="50" />
 </h1>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/1kHaZ1lj1r2nMjXUke/giphy.gif" width="450"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/1kHaZ1lj1r2nMjXUke/giphy.gif" width="500"/>
 <h3>About</h3>
 
 - 💻 &nbsp; Working at Kumulus
