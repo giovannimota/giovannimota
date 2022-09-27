@@ -6,9 +6,9 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/1kHaZ1lj1r2nMjXUke/giphy.gif" width="480"/>
 <h3>About</h3>
 
-- 💻 &nbsp; Working at Kumulus
+- 💻 &nbsp; Working at Softable
 - 🎓 &nbsp; Studying Analysis and Systems Development.
-- 🚀 &nbsp; Studying React and React Native a lot
+- 🚀 &nbsp; Studying NextJS, React and React Native a lot
 
 <p align="left">
   <em>
