@@ -7,7 +7,7 @@
 <h3>About</h3>
 
 - 💻 &nbsp; Working at Softable
-- 🎓 &nbsp; Studying Analysis and Systems Development.
+- 🎓 &nbsp; Graduated Analysis and Systems Development.
 - 🚀 &nbsp; Studying NextJS, React and React Native a lot
 
 <p align="left">
