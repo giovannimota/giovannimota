@@ -12,7 +12,7 @@
 
 <p align="left">
   <em>
-Hello, welcome to my profile. I'm Giovanni Mota, I study Systems Analysis and Development and currently work as a junior developer at Softable. I'm currently studying NextJS, React and React Native. I entered the world of programming through Arduino.                       
+Hello, welcome to my profile. My name is Giovanni Mota, I have a degree in Systems Analysis and Development and I currently work as a software developer at Softable. I currently work in the front-end area with NextJS, React and React Native and I am studying some back-end technologies and uses. I entered the world of programming through Arduino.                     
   </em> 
   <br>
 </p>
