@@ -8,7 +8,7 @@
 
 - 💻 &nbsp; Working at Softable
 - 🎓 &nbsp; Graduated Analysis and Systems Development.
-- 🚀 &nbsp; Studying NextJS, React and React Native a lot
+- 🚀 &nbsp; Studying NextJS, React, React Native and SwiftUI a lot
 
 <p align="left">
   <em>
