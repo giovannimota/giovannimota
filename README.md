@@ -22,7 +22,7 @@
   </p>
   </td>
   <td style="width: 50%;">
-    <img alt="GIF" src="https://media.giphy.com/media/1kHaZ1lj1r2nMjXUke/giphy.gif" width="400" />
+    <img alt="GIF" src="https://media.giphy.com/media/1kHaZ1lj1r2nMjXUke/giphy.gif" width="500" />
   </td>
   </tr>
 </table>
