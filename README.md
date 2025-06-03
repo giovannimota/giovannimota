@@ -3,23 +3,27 @@
     Giovanni Mota
   <img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width="50" />
 </h1>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/1kHaZ1lj1r2nMjXUke/giphy.gif" width="480"/>
-<h3>About</h3>
+<div styles={{ display: 'grid', gridTemplateColumns: '1fr 1rem 1fr' }}>
+  <img alt="GIF" src="https://media.giphy.com/media/1kHaZ1lj1r2nMjXUke/giphy.gif" width="480"/>  
 
-- 💻 &nbsp; Working at Softable
-- 🎓 &nbsp; Graduated Analysis and Systems Development.
-- 🚀 &nbsp; Studying NextJS, React, React Native and SwiftUI a lot
+  <div>
+    <h3>About</h3>
 
-<p align="left">
-  <em>
+  - 💻 &nbsp; Working at Softable
+  - 🎓 &nbsp; Graduated Analysis and Systems Development.
+  - 🚀 &nbsp; Studying NextJS, React, React Native and SwiftUI a lot
+
+    <p align="left">
+      <em>
 Hello, welcome to my profile. My name is Giovanni Mota, I have a degree in Systems Analysis and Development and I currently work as a software developer at Softable. I currently work in the front-end area with NextJS, React and React Native and I am studying some back-end technologies and uses. I entered the world of programming through Arduino.                     
-  </em> 
-  <br>
-</p>
+      </em> 
+      <br>
+    </p>
+  </div>
+</div>
+
 <hr>
 <br>
-
-
 
 
 <h2>GitHub Stats</h2>
