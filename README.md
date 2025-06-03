@@ -28,10 +28,6 @@
 </table>
 
 
-<hr>
-<br>
-
-
 <h2>GitHub Stats</h2>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannimota&show_icons=true&theme=midnight-purple" alt="nonsene" />
