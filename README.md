@@ -9,21 +9,21 @@
     <td style="vertical-align: top; width: 50%;">
       <h3>About</h3>
 
-      <ul>
-        <li>💻 &nbsp; Working at Softable</li>
-        <li>🎓 &nbsp; Graduated in Analysis and Systems Development</li>
-        <li>🚀 &nbsp; Studying NextJS, React, React Native, and SwiftUI</li>
-      </ul>
+  <ul>
+    <li>💻 &nbsp; Working at Softable</li>
+    <li>🎓 &nbsp; Graduated in Analysis and Systems Development</li>
+    <li>🚀 &nbsp; Studying NextJS, React, React Native, and SwiftUI</li>
+  </ul>
 
-      <p align="left">
-        <em>
-          Hello, welcome to my profile. My name is Giovanni Mota, I have a degree in Systems Analysis and Development and I currently work as a software developer at Softable. I currently work in the front-end area with NextJS, React and React Native and I am studying some back-end technologies and uses. I entered the world of programming through Arduino.
-        </em>
-      </p>
-    </td>
-    <td style="width: 50%;">
-      <img alt="GIF" src="https://media.giphy.com/media/1kHaZ1lj1r2nMjXUke/giphy.gif" width="100%" />
-    </td>
+  <p align="left">
+    <em>
+      Hello, welcome to my profile. My name is Giovanni Mota, I have a degree in Systems Analysis and Development and I currently work as a software developer at Softable. I currently work in the front-end area with NextJS, React and React Native and I am studying some back-end technologies and uses. I entered the world of programming through Arduino.
+    </em>
+  </p>
+  </td>
+  <td style="width: 50%;">
+    <img alt="GIF" src="https://media.giphy.com/media/1kHaZ1lj1r2nMjXUke/giphy.gif" width="100%" />
+  </td>
   </tr>
 </table>
 
