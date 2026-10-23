@@ -56,19 +56,14 @@ I’m currently expanding my backend expertise with **Java, Spring Boot, SQL, an
 
 ## 🚀 Featured Projects
 
-### Vizenda
-A condominium management application focused on bringing essential residential services into a single mobile experience.
-
-**Focus areas:** React Native, Expo, application architecture, and mobile development.
-
-[View repository](https://github.com/giovannimota)
-
 ### Treevo
 A family tree application designed to organize genealogical relationships, preserve family stories, and share memories across generations.
 
 **Focus areas:** Application design, data modeling, and user experience.
 
 [View repository](https://github.com/giovannimota)
+
+[View website page](https://treevo-web.vercel.app/)
 
 ---
 
