@@ -1,63 +1,96 @@
-<h1 align="center">
-  <img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width="50" />
-  Giovanni Mota
-  <img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width="50" />
-</h1>
+# Giovanni Mota
 
-<table>
-  <tr>
-    <td style="vertical-align: top; width: 50%;">
-      <h3>About</h3>
+### Software Engineer
 
-  <ul>
-    <li>💻 &nbsp; Working at Softable</li>
-    <li>🎓 &nbsp; Graduated in Analysis and Systems Development</li>
-    <li>🚀 &nbsp; Studying NextJS, React, React Native, and SwiftUI</li>
-  </ul>
+I’m a software engineer with **5+ years of experience in software development**, specializing in modern web and mobile applications. I currently work at Softable, building software solutions with React, Next.js, and React Native.
 
-  <p align="left">
-    <em>
-      Hello, welcome to my profile. My name is Giovanni Mota, I have a degree in Systems Analysis and Development and I currently work as a software developer at Softable. I currently work in the front-end area with NextJS, React and React Native and I am studying some back-end technologies and uses. I entered the world of programming through Arduino.
-    </em>
-  </p>
-  </td>
-  <td style="width: 50%;">
-    <img alt="GIF" src="https://media.giphy.com/media/1kHaZ1lj1r2nMjXUke/giphy.gif" width="500" />
-  </td>
-  </tr>
-</table>
+My experience goes beyond implementation: I contribute to technical decisions, help define business rules, support task planning, and mentor other developers.
 
+I’m currently expanding my backend expertise with **Java, Spring Boot, SQL, and cloud technologies**, focusing on software architecture, maintainability, and scalable solutions.
 
-<h2>GitHub Stats</h2>
+---
+
+## 👨‍💻 About Me
+
+- 💼 Software Engineer at **Softable**
+- 🎓 Degree in Analysis and Systems Development
+- 🌐 Experienced in web and cross-platform mobile development
+- 🏗️ Interested in software architecture, clean code, and scalable systems
+- 🤝 Experience collaborating with teams, mentoring developers, and translating business requirements into technical solutions
+- 🚀 Currently deepening my knowledge of Java, Spring Boot, databases, and Microsoft Azure
+
+## 🛠️ Tech Stack
+
+### Core Technologies
+
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannimota&show_icons=true&theme=midnight-purple" alt="nonsene" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,html,css,tailwind" alt="Core frontend technologies" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=giovannimota&count_private=true&show_icons=true&theme=midnight-purple" alt="nonsene" width="410" />
-</p>
-  
-<br>
-<br>
-<br>
-<br>
-<hr>
 
- <h2>Languages and Tools:</h2>
-  <code> <img height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"> </code>
-  <code> <img height="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"> </code>
-  <code> <img height="40" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"> </code>
-  <code> <img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"> </code>
-  <code> <img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"> </code>
-  <code> <img height="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"> </code>
-  <code> <img height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"> </code>
-  <code> <img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"> </code>
-  <code> <img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> </code>
-  <code> <img height="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"> </code>
-  <code> <img height="40" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg"> </code>
-  <code> <img height="40" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg"> </code>
-  <code> <img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"> </code>
-  <code> <img height="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"> </code>
-  
- <hr>
- 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/giovannimota)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/giovanni-mota/)  
+- **Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS
+- **Mobile:** React Native, Expo
+- **State Management:** Context API, Redux
+- **Development Practices:** Git, GitHub, GitLab, code reviews, component-based architecture
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,postgres,mysql,mongodb" alt="Backend and database technologies" />
+</p>
+
+- **Currently studying:** Java, Spring Boot, backend architecture, and API development
+- **Additional experience:** Node.js and Express fundamentals
+- **Databases:** SQL fundamentals; PostgreSQL and MongoDB in learning and project contexts
+
+### Cloud & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,git,docker,arduino" alt="Cloud and development tools" />
+</p>
+
+- **Microsoft Azure:** Exposure to Azure Functions during my internship at Kumulus
+- **Development Tools:** Git, GitHub, GitLab, Figma
+- **Currently exploring:** Docker, automated testing, and cloud application architecture
+
+---
+
+## 🚀 Featured Projects
+
+### Vizenda
+A condominium management application focused on bringing essential residential services into a single mobile experience.
+
+**Focus areas:** React Native, Expo, application architecture, and mobile development.
+
+[View repository](https://github.com/giovannimota)
+
+### Treevo
+A family tree application designed to organize genealogical relationships, preserve family stories, and share memories across generations.
+
+**Focus areas:** Application design, data modeling, and user experience.
+
+[View repository](https://github.com/giovannimota)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=giovannimota&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannimota&layout=compact&theme=transparent&hide_border=true" alt="Most used programming languages" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in discussing software engineering, application architecture, new technologies, and opportunities to build meaningful products.
+
+<p>
+  <a href="https://github.com/giovannimota">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/giovanni-mota/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
